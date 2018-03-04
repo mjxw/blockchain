@@ -1,4 +1,4 @@
-class Blockchain {
+export default class Blockchain {
 
     // Section 1 Genesis block creation 
     constructor() {
